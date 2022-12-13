@@ -1,0 +1,111 @@
+//Github Repository tag: content_info
+
+//<Structures>:
+//GR - Game release
+//1
+//> Minimum installer version - int
+//> Download link - string
+//> Version - string
+//> Tag - string
+
+//Note: PLEASE KEEP ALWAYS SAME STRUCTURE FOR INSTALLER. ADDING NEW STRUCTURE FOR INSTALLER CAN RESULT INTO COMPLICATION.
+//Note: ALWAYS ADD NEW VERSIONS AT THE TOP OF THE LIST.
+
+GR
+1
+https://github.com/yozozchomutova/StateOfWarAnnihilation/releases/download/02-10-002-__AV/StateOfWarAnnihilation.zip
+02-10-02-__AV
+Alpha
+-Game: Destroying buildings now changes color instead of completely destroying\n-Game: Towers **Plasmatic, Machine Gun, Granader** joins combat.\n-Game: Units **CulometS, KodimizerS, PinkyS, ShockerS** joins combat.\n-Game: Units **Longarm 1,2,3** joins combat.\n-Game: Units **Heavy 1,2,3** joins combat.\n-Game: Units **Flamingo 1,2,3** joins combat.\n-Game: Improved format of commands "/<command> <count>" (Ex. "/jet 6", adds 6 jets)\n-Game: Added **/cb <unit_id>** command. It set units, which will land on ground.\n-Game: Reduced gravel light bouncing\n-Game: Ground tanks no more fight for their position.\n-Fix: UI, Energy text didn't show accurate value.\n-Fix: Units will no more attack towers, that are being placed.\n-Fix: Exiting build mode will no more cause errors / stuck ingame.\n-Fix: New placed towers had 100x more hp than they should.\n-Fix: Carrybus units couldn't move.
+
+GR
+1
+https://github.com/yozozchomutova/StateOfWarAnnihilation/releases/download/02-09-002-__AV/StateOfWarAnnihilation.zip
+02-09-002-__AV
+Alpha
+-Game: You can now select multiple units. (Only ground and ally units)\n-Game: You can now move tanks around map\n-Game: All selected/hovered units now display their health above them...\n-Game: Tonk 1,2,3 joins combat.\n-Game: In all 4 unit factories you can now place flags, whereas units will be sent right after they are produced.\n-> Press **[R]** to set flag on specific position.\n-Game: All 4 unit factories are now producing units and automatically sending them to selected destination.\n-Game: Energy -> boosts navigatirs and tank factories...\n-Christmas: It' s snowing!\n-Editor: *Navigations* settings -> Used to preview/edit areas, where ground units can move or where player can place turret.\n-Fix: SMF couldn't upgrade navigators.\n-To play new version, you have first convert it into newer version in level editor...
+
+GR
+1
+https://github.com/yozozchomutova/StateOfWarAnnihilation/releases/download/02-08-002-__AV/StateOfWarAnnihilation.zip
+02-08-002-__AV
+Alpha
+-Game: Some air forces are now hitable.\n-Game: Air forces have smoother movements.\n-Game: Carrybuses can now spawn new units.\n-Game: Destroyers now have doubled amount of bombs.\n-Game: Debris has now more variations and feels more like falling meteor.\n-Game: LMB to adjust bomb targets. (currently works only for Jets - select between: 'huge damage in center' x 'medium damage around')\n-Game/Fix: Warping time would ruin some air force weapon physics... (which still needs some fixes)\n-Game/Fix: Air force buttons didn't do anything.
+
+GR
+1
+https://github.com/yozozchomutova/StateOfWarAnnihilation/releases/download/02-07-002-__AV/StateOfWarAnnihilation.zip
+02-07-002-__AV
+Alpha
+-Editor/Fix: New saved levels wouldn't load again due to 1 command center error.\n-Game/Fix: Steppers had retarded head rotations ingame\n-Game/Fix: Some anti-air turrets had wrong rotations (targeting enemy)\n-Game/Fix: No more SMF self destruction!\n-Game/Fix: You were able to play as white team ingame\n-Game/Fix: You were able to controll enemy units\n-Game/Fix: Speeding up time, wouldn't speed up destroying/repairing/upgrading.\n-Game: Anti-Aircraft stepper and Anti-Aircraft tank joins the combat\n-Game: With [1-5] keys you select tower to build. With holding [F] or [L-Alt] and pressing [1-5], you will select air force.\n**-Game: You can now call Jets, Destroyers, Cyclones, Carrybuses and Debrises.**
+
+GR
+1
+https://github.com/yozozchomutova/StateOfWarAnnihilation/releases/download/02-06-002-__AV/StateOfWarAnnihilation.zip
+02-06-002-__AV
+Alpha
+-Game: SMFs can now move around, repair, attack, upgrade.\n-Game/Fix: Reselecting unit didn't change top-right panel\n-Game: Ortographic (2D-style) camera is now better controllable\n-Game: Smooth zooming for both cameras.\n-Game: Camera movement is now limited. You can't fly with it away from map.\n-Game UI: Air force buttons now have team color.\n-Game: Anti-air turrets are now targetting enemy SMFs.\n-Man menu: Fixed, where Graphics and Audio settings wouldn't apply sometimes.
+
+GR
+1
+https://github.com/yozozchomutova/StateOfWarAnnihilation/releases/download/02-05-002-__AV/StateOfWarAnnihilation.zip
+02-05-002-__AV
+Alpha
+-Game: All 4 factories + Navigator now shows all their content and what they are producing.\n-Game: You can now upgrade units (especially tanks) LVL 1 to LVL 2 and then to LVL 3 (Every upgrade costs 500 Res. points, for now)\n-Game/Chat: You can now also press [Keypad Enter] to toggle chat.\n-Game/Chat: Temporary cheat commands (mostly used for testing & debugging):\n-> /m - Adds money\n-> /r - Adds research points\n-> /jet - Adds 10x jets\n-> /destroyer - Adds 10x destroyers\n-> /cyclone - Adds 10x cyclones\n-> /carrybus - Adds 10x carrybuses\n-> /debris - Adds 10x debrises\n-Game/Fix: WTurbine, GMachine, RStation have brighter progressbar (when hovering mouse)\n-Game/Fix: UI reseting/freezing after clicking on unit.
+
+GR
+1
+https://github.com/yozozchomutova/StateOfWarAnnihilation/releases/download/02-04-002-__AV/StateOfWarAnnihilation.zip
+02-04-002-__AV
+Alpha
+-Game: You can now view unit basic info (Name, Team, Health)\n-Game: You can now view unit advancier info (Making tanks, Making steppers, SMF info, etc...)\n-Game: Fixed bug where SMFs had 100x more health than they should.\n-Game: SMF slowed down.\n-Game: Air force counts are now updating\n-Menu: Added **Modules** in settings (Game parts + modification). This will work in the future\n-Fix: 02_03 & 02_04 versions of levels didn't load. Now they do.\n-Menu: Stripes animation\n-Settings: You can now set your nickname.\n-Game: You can now enter text (Enter)
+
+GR
+1
+https://github.com/yozozchomutova/StateOfWarAnnihilation/releases/download/02-03-002-__AV/StateOfWarAnnihilation.zip
+02-03-002-__AV
+Alpha
+-Game: Time warps: 2 (2x speed) and 3 (4x speed) are now allowed and can be used. (4x speed may be laggy. This issue is going to be resolved in the future)\n-Game: You can now build towers. (You need to have money for it, it needs to be close to other your building/tower, it can't collide with any object)\n-Game + Level Editor: Increased performance, when placing units\n-Game + Level Editor: Added effect, when camera is underwater.\n-Game: Fixed bug where camera effects (known as post-processing) were not working.\n-Game: Player camera automatically teleports to any owning command center. If your team doesn't have any, your camera teleports to the center of the map.\n-Game: Command centers can now produce SMF. \n-Game: SMF has basic idle AI\n-Game + Level Editor: Towers & Tanks are smaller (and have smaller hitboxes) -> so you can place them closer to each other.\n-Game: Units & Towers can now act in IDLE state. (Random head rotations)\n-Game: Cursor now changes:\n-> Unit selection or Building tower = Selecting cursor\n-> Rotating camera = Camera cursor
+
+GR
+1
+https://github.com/yozozchomutova/StateOfWarAnnihilation/releases/download/02-02-002-__AV/StateOfWarAnnihilation.zip
+02-02-002-__AV
+Alpha
+-Agreement: Added more people in credits\n-Level Editor: You cannot place unit colliding with other units\n-Level Editor: Added UI and chill environmental sounds for better atmosphere.\n-Main Menu: Changelog disabled for now.\n-Game: Unit factory buildings are smoking.\n-Game: UI gets colored according to team.
+-Game: Building tower buttons: only allowed towers will have their button visible...\n-Game: Gold mine: Gives +10 gold for every cycle.\n-Game: Research station: Gives +2 research points for every cycle.\n-Game: **Money** and **Research points** texts are now updated in real-time.\n-Game: Time warps: 0 (pause) and 1 (unpause/run) are now allowed and can be used.
+
+GR
+1
+https://github.com/yozozchomutova/StateOfWarAnnihilation/releases/download/02-01-001-__AV/StateOfWarAnnihilation.zip
+02-01-001-__AV
+Alpha
+-You can now load and play your levels in Singleplayer menu.\n-Replacing old news log with newer one. (Still in progress)\n-Added ZIP compression for your levels. (Empty level: Dropping from 2,827 Kb to only 11 Kb)... But also, more advanced terrain = bigger file\n-Fixed bug, where loading level wouldn't update icon in level properties window.\n-Fixed bug, where loading level wouldn't update terrain size in level properties window.\n-Fixed bug, where team stats weren't saved properly. (Money, Research points, bomber count, etc.)\n-Added reset button for level icon. (Level properties window)\n-Map objects finally have name and icon. (Trees, Cactuses, etc.)\n-All buildings have idle animation.\n-Game settings allowed:\n-> Choose UI layout for air forces\n-> Choose game camera type
+
+GR
+1
+https://github.com/yozozchomutova/StateOfWarAnnihilation/releases/download/01-04-001-__AV/StateOfWarAnnihilation.zip
+01-04-001-__AV
+Alpha
+-Air Forces finally have their icons.\n-Level-loading panel is longer\n-Level editor fog decreased => Better visibility in larger maps.\n-All map objects and units outside borders won't be considered while saving level.\n-Press **[H]** to hide/show yellow box in level editor.\n-Editors yellow box has breathing effect
+
+GR
+1
+https://github.com/yozozchomutova/StateOfWarAnnihilation/releases/download/01-03-001-__AV/StateOfWarAnnihilation.zip
+01-03-001-__AV
+Alpha
+-Improved level saving system:\n->Game can load older version of levels... (So you don't have to every time recreate levels for newer versions) **But also remember: Very old versions of levels, will get obsolete over time to avoid having ton of level-loading functions for every version... So keep your levels up to date by simply loading a resaving them... (I will be always telling ahead, which versions of level are getting unsupported)... To convert very old, obsoleted levels, you have to install multiple SOWs and in every SOW convert level to newer version...**\n-> Difficulty is now measured in percentage.\n-> Difficulty is being calculated automatically by simple algorithm.\n-> Added layer of compression in newly saved levels (ex. Drop from **9,221 KB** to **2,827 KB**)\n-New map object: Cactus\n-New texture for surface: Sand rocks\n-Every level has default icon\n-All outdated levels are marked with red text
+
+GR
+1
+https://github.com/yozozchomutova/StateOfWarAnnihilation/releases/download/01-02-001-__AV/StateOfWarAnnihilation.zip
+01-02-001-__AV
+Alpha
+-Brightness of snow texture lowered (so it won't kill your eyes now)\n-Improved Unit placing panel (for easier use)\n-Improved other level editor UI elements...\n-The sky is now moving!\n-Fixed bug, where agreement would show, even if it didn't had to...\n-When you select White team, HP bar will automatically moves to 50%... Similar case, when selecting other team colour after leaving white one -> HP bar moves to 100%
+
+GR
+1
+https://github.com/yozozchomutova/StateOfWarAnnihilation/releases/download/01-01-001-__AV/StateOfWarAnnihilation.zip
+01-01-001-__AV
+Alpha
+-Initial
