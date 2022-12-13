@@ -12,6 +12,13 @@
 //Note: ALWAYS ADD NEW VERSIONS AT THE TOP OF THE LIST.
 
 GR
+3
+https://github.com/yozozchomutova/StateOfWarAnnihilation/releases/download/02-10-002-__AV/StateOfWarAnnihilation.zip
+TT-TT-TT-TTTTT
+Alpha
+-Only test version\n-Nothing special.\n-Not accessible.
+
+GR
 1
 https://github.com/yozozchomutova/StateOfWarAnnihilation/releases/download/02-10-002-__AV/StateOfWarAnnihilation.zip
 02-10-02-__AV
