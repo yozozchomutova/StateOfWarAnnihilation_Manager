@@ -14,14 +14,14 @@
 GR
 3
 https://github.com/yozozchomutova/StateOfWarAnnihilation/releases/download/02-10-002-__AV/StateOfWarAnnihilation.zip
-TT-TT-TT-TTTTT
+03-99-009-__BV
 Alpha
 -Only test version\n-Nothing special.\n-Not accessible.
 
 GR
 1
 https://github.com/yozozchomutova/StateOfWarAnnihilation/releases/download/02-10-002-__AV/StateOfWarAnnihilation.zip
-02-10-02-__AV
+02-10-002-__AV
 Alpha
 -Game: Destroying buildings now changes color instead of completely destroying\n-Game: Towers **Plasmatic, Machine Gun, Granader** joins combat.\n-Game: Units **CulometS, KodimizerS, PinkyS, ShockerS** joins combat.\n-Game: Units **Longarm 1,2,3** joins combat.\n-Game: Units **Heavy 1,2,3** joins combat.\n-Game: Units **Flamingo 1,2,3** joins combat.\n-Game: Improved format of commands "/<command> <count>" (Ex. "/jet 6", adds 6 jets)\n-Game: Added **/cb <unit_id>** command. It set units, which will land on ground.\n-Game: Reduced gravel light bouncing\n-Game: Ground tanks no more fight for their position.\n-Fix: UI, Energy text didn't show accurate value.\n-Fix: Units will no more attack towers, that are being placed.\n-Fix: Exiting build mode will no more cause errors / stuck ingame.\n-Fix: New placed towers had 100x more hp than they should.\n-Fix: Carrybus units couldn't move.
 
