@@ -20,6 +20,13 @@ Alpha
 
 GR
 1
+https://github.com/yozozchomutova/StateOfWarAnnihilation/releases/download/02-11-002-__AV/StateOfWarAnnihilation.zip
+02-11-02-__AV
+Alpha
+-Game: Match can be now ended if there's only 1 team owning any command center.\n-Game: Atomizer now explodes (but don't deals damage for now)\n-Game: Added some mathematics for Longarms and Granader.\n-Game: New command: **/win <team_id>** automatically wins game for entered team.\n-Game: New command: **/overtake <from_team_id> <to_team_id>** all **from_team_id** units, towers, buildings will be transfered **to_team_id**.\n-Game: Unit attack priority: Units prefers to attack your choosen unit instead of randomly shooting units.\n-Game: Unit attack priority: Air force > SMF > Steppers > Units > Towers > Buildings.\n-Game: Terrain textures are now back in normal. Instead all units have hats now...\n-Fix: Plasmatic slow firing.\n-Fix: Atomizer wrong head rotation.\n-Fix: Bombs from: Destroyer and Cyclone are now falling again.\n-Fix: No texture of gravel in editor.\n-EXPERIMENTAL: You can now export your levels to **.edt, .map, .srf,...** -> They can be now played in **SOW:Classic/Warmonger. IT HAS STILL ALOT OF BUGS/CRASHES, WHICH NEEDS TO BE FIXED.**
+
+GR
+1
 https://github.com/yozozchomutova/StateOfWarAnnihilation/releases/download/02-10-002-__AV/StateOfWarAnnihilation.zip
 02-10-002-__AV
 Alpha
