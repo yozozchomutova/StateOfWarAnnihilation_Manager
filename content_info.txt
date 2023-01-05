@@ -13,6 +13,13 @@
 
 GR
 1
+https://github.com/yozozchomutova/StateOfWarAnnihilation/releases/download/02-12-002-__AV/StateOfWarAnnihilation.zip
+02-12-002-__AV
+Alpha
+->Editor: You can create your custom tasks, set their rewards for completing objectives. Or you can introduce some random events to your level.\n->Ingame: [TAB] to show your tasks and visible incoming events.\n->Check #sowa-level-editor-guide for more info.\n-Editor: Added  summary results, when saving level:\n-> Tells you, how many units are underwater, how many are floating, how many are outside of bounds,\n-> Calculates difficulty.\n-Game: Improved combat priority of units:\n-> Forced unit: L-CTRL forces unit to attack specific unit at any cost. It won't focus on anything else.\n-> Primary unit: Unit that is primarly selected by player. If it finds better target, it goes for it.\n-> Idle unit: Unit that is automatically searched and attacked, when it comes in range.\n-Game: Endgame statistics:\n-> Are now actually counting.\n-> Now shows only teams, that were fighting in this level.\n-> Added few properties.\n-Game: Editor now generates minimap background only, which is now visible in-game (top-right corner).\n-Game: Bottom bar now updates regularly when selected multiple units.\n-Game: Improved damage physics (important for atomizer, which can now deal damage)\n-Game: Carrybuses now carries random units on every land.\n-Game: SMF can now attack enemy SMFs and enemy antiair ground units.\n-Game: There's now delay after sending air force.\n-Game: Menu now contains basic information.\n-Editor: Scaling map now scales all map objects. (Moves to new position to adapt new map)\n-Editor: Exporting as SOW:C/W level: Now generates non-walkable area for ground units. **(Areas are generated using normal/sand/snow rock textures! Not terrain shape!)**\n*Alot minor fixes, I'm not going to list them all...*
+
+GR
+1
 https://github.com/yozozchomutova/StateOfWarAnnihilation/releases/download/02-11-002-__AV/StateOfWarAnnihilation.zip
 02-11-002-__AV
 Alpha
