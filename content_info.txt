@@ -13,6 +13,13 @@
 
 GR
 1
+https://github.com/yozozchomutova/StateOfWarAnnihilation/releases/download/02-13-002-__AV/StateOfWarAnnihilation.zip
+02-13-002-__AV
+Alpha
+-Added remaining 5 nodes... (Exception Launch Air forces: Due to future plans, this node will be disabled for now...)\n-If you're placing towers, they now require area, which is valid even for ground units.\n-Game/Fix: Fixed any error/bugs I could find in last few days. (Some of them are still there)
+
+GR
+1
 https://github.com/yozozchomutova/StateOfWarAnnihilation/releases/download/02-12-002-__AV/StateOfWarAnnihilation.zip
 02-12-002-__AV
 Alpha
