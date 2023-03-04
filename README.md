@@ -1,7 +1,9 @@
 # State Of War: Annihilation Manager
 
-Software for installing/managing State of War: Annihilation. Simply check releases to download launcher.
-https://github.com/yozozchomutova/StateOfWarAnnihilation
+Software for installing/managing State of War: Annihilation. Simply check releases to download launcher:
+https://github.com/yozozchomutova/StateOfWarAnnihilation_Manager/releases
+
+<br><br><br>Main game: https://github.com/yozozchomutova/StateOfWarAnnihilation
 
 # Open Source
 Project is open source, free to copy/inspire/doWhateverYouWant. Great inspiration, when making installer for any files that are open source on github. (Or any other URL)
