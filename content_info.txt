@@ -13,6 +13,13 @@
 
 GR
 1
+https://github.com/yozozchomutova/StateOfWarAnnihilation/releases/download/03-01-003-__AV/StateOfWarAnnihilation.zip
+03-01-003-__AV
+Alpha
+-Menu: Agreement moved to github, new game loading screen, more stylised buttons\n-Menu: You can now choose controller for each team when loading level (Controller = who will controll team, ex. AI or player)\n-Editor: Top buttons moved to sidebar for better view\n-Editor: Start/End edit/paint buttons are no longer needed\n-Game: You can now change settings ingame\n-Game: You can switch between multiple teams you own\n-Game: Neutral command centers are capturable\n-Game: Graphics: More detailed textures for terrain, textures for units, shadows, etc. \n-AI: Game now contains 3 AIs:\n->Static idle: AI does nothing, It just exists\n->Static pusher: AI constantly focuses on you command center, but nothing else\n->AI Classic: Tries to imitate AI from SOW:Warmonger\n-Added unity analytics for tracking activity and bugs. (recommended)\n-Github: Community can now help translate game (check github repository)\n-And some bug fixes, but I don't remember them...
+
+GR
+1
 https://github.com/yozozchomutova/StateOfWarAnnihilation/releases/download/02-13-002-__AV/StateOfWarAnnihilation.zip
 02-13-002-__AV
 Alpha
