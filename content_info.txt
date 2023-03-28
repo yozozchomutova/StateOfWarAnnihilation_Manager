@@ -13,6 +13,13 @@
 
 GR
 1
+https://github.com/yozozchomutova/StateOfWarAnnihilation/releases/download/03-02-003-__AV/StateOfWarAnnihilation.zip
+03-02-003-__AV
+Alpha
+-New navigation system for ground units, which improves performance, makes them visually better, but still it lacks object collision avoiding\n-Graphics: Units have new effects depending on their health.\n-Graphics: Units have improved and optimized texture.\n-New firing sounds for: Tonks, Longarms, Flamingos, Heavies, Antiairs, Culomets, Ants, Machine Guns\n-Fix: Classic AI causing huge lags when manipulating with ground units\n-Fix: Unintenantional moving with units in editor.\n-Rebalance: Gold Machines produce less money.
+
+GR
+1
 https://github.com/yozozchomutova/StateOfWarAnnihilation/releases/download/03-01-003-__AV/StateOfWarAnnihilation.zip
 03-01-003-__AV
 Alpha
