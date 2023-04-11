@@ -13,6 +13,13 @@
 
 GR
 1
+https://github.com/yozozchomutova/StateOfWarAnnihilation/releases/download/03-03-003-__AV/StateOfWarAnnihilation.zip
+03-03-003-__AV
+Alpha
+-Game: Filling sound effects for Air Forces, Units, Towers...\n-Game: Visual improvements of all projectiles.\n-Game: Increased a bit reaction latency (detecting enemies) in all units, but improving CPU performance.\n-Rebalance: Navigations, Stepper factory - nerfed production speed.\n-Rebalance: Heavies, Tonks, Kodimizers, SMFs, deals less damage.\n-Rebalance: All air forces (including SMF) has much less HP.\n-Rebalance: Significant HP increment for buildings.\n-Rebalance: All towers are now more expensive.\n-Editor: Lowered density when painting details.\n-Fix: Debris are now falling everywhere within the circle.\n-Fix: Accidental unit destroy, when you close panel while selecting unit (editor).\n-Fix: Unwanted terrain painting after closing panel.\n-Fix: Reversed painting details Alpha setting.\n-Fix: SMF now repairs towers again.\n-Fix: AIs are no longer building towers outside of map.\n-Experimental: Added new AI "Advanced". It's goal is to be more defensive, smarter and less agressive than classic ai.
+
+GR
+1
 https://github.com/yozozchomutova/StateOfWarAnnihilation/releases/download/03-02-003-__AV/StateOfWarAnnihilation.zip
 03-02-003-__AV
 Alpha
