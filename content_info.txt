@@ -13,6 +13,13 @@
 
 GR
 1
+https://github.com/yozozchomutova/StateOfWarAnnihilation/releases/download/03-04-003-__AV/StateOfWarAnnihilation.zip
+03-04-003-__AV
+Alpha
+-Game: Filled VFX and SFX for most steppers.\n-Game: UI Now hides unavailable air forces\n-Game: Minimap now show all units\n-Game: Improved chat and notifications (SMF idle, tower destroyed, building captured, etc..)\n-Fix: Flag issues in tank factories\n-Fix: Cyclone and Destroyer bombs are falling again.\n-Fix: Debris not dealing damage sometimes\n-Fix: Atomizer not self-exploding sometimes
+
+GR
+1
 https://github.com/yozozchomutova/StateOfWarAnnihilation/releases/download/03-03-003-__AV/StateOfWarAnnihilation.zip
 03-03-003-__AV
 Alpha
