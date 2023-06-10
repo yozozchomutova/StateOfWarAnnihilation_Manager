@@ -13,6 +13,13 @@
 
 GR
 1
+https://github.com/yozozchomutova/StateOfWarAnnihilation/releases/download/03-05-003-__AV/StateOfWarAnnihilation.zip
+03-05-003-__AV
+Alpha
+-Reworked Unit code structure, which wre supposed to take few days, but suprisingly, it took entire month. Results?\n-> I personally take this change as failure, because the pain and hard work weren't worth it. It resulted in more bugs rather than benefits.\n-> Code is cleaner, more documented, (good for me).\n-> Performance up in some cases.\n-> Data (HP, damage, etc.) moved to files, making it safe against losing them and means ability to change unit properties in editor (somewhere in far future updates).\n-> New huge amount of bugs. Most of them are fixed, but still some bugs needs to be resolved in future.\n-> Units not levitating anymore.\n\n-Environment:\n-> Time works as irl (full game 24 hour cycle takes 24 minutes in real life)\n-> Daylight changes depending on time\n-> Units turns on light around 22/10PM and shutdowns around 8/8AM\n-> Weather not changing map behaviours or visuals for now...\n-> Use "/time <number between 0-1440>" to controll time\n\n-Other:\n-> FPS counter is now smoothed/better accuracy.\n-> Game is darker, because I played with lighting.
+
+GR
+1
 https://github.com/yozozchomutova/StateOfWarAnnihilation/releases/download/03-04-003-__AV/StateOfWarAnnihilation.zip
 03-04-003-__AV
 Alpha
